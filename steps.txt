@@ -1,0 +1,13 @@
+1. create divs 
+2. divs data
+data : title input button (done)
+length : title p (done)
+volume : title p (done)
+mass : title p (done)
+3. date css (done)
+   length css (done)
+   volume css (done)
+   mass css	(done)	 
+4.js for 1 div (done)
+5. copy and paste for the others (done)
+COMPLETED..WOHOO !!
